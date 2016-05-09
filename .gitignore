@@ -6,3 +6,5 @@ generated.varnishtest
 # varnishtest runs
 varnishtest.err
 varnishtest.out
+
+Gemfile.lock
